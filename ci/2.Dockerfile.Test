@@ -1,0 +1,8 @@
+FROM microsoft/dotnet:sdk AS build-env
+WORKDIR /app
+
+COPY * ./
+
+RUN dotnet restore
+RUN find Tests/ -type f -iname "*.Tests.csproj" |\
+    xargs -P 3 -n 1 -I project dotnet test project --no-restore --logger trx -r TestResults/

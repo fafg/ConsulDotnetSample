@@ -1,0 +1,15 @@
+{
+    "log_level": "TRACE",
+    "bind_addr": "127.0.0.1",
+    "server": true,
+    "bootstrap": true,
+    "datacenter": "dc1",
+    "domain": "mycorp.com",
+    "data_dir": "/consul/data",
+    "encrypt" : "DUYH9oRaiWXu+gMMIUSGmg==",
+    "disable_remote_exec": true,
+    "acl_datacenter": "dc1",
+    "acl_master_token": "DUYH9oRaiWXu+gMMIUSGmg==",
+    "acl_default_policy": "deny",
+    "acl_down_policy": "extend-cache"
+}

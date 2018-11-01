@@ -1,0 +1,14 @@
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/bin/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.deps.json
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/bin/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.runtimeconfig.json
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/bin/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.runtimeconfig.dev.json
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/bin/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.dll
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/bin/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.pdb
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.csprojAssemblyReference.cache
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.csproj.CoreCompileInputs.cache
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.RazorAssemblyInfo.cache
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.RazorAssemblyInfo.cs
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.AssemblyInfoInputs.cache
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.AssemblyInfo.cs
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.RazorTargetAssemblyInfo.cache
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.dll
+/home/fafg/git/ConsulDotnetSample/src/Api/Consul.Dotnet.Webapi.Sample/obj/Debug/netcoreapp2.1/Consul.Dotnet.Webapi.Sample.pdb
